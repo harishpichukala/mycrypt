@@ -1,0 +1,1 @@
+cat<j.txt>temps.txt
